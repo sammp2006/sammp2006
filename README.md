@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sammp2006
-- 👀 I’m interested in DS,IA and ML.
+- 👀 I’m interested in Linux, DS,IA and ML.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
