@@ -2,6 +2,8 @@
 
 - Currently developing in Django Rest Framework
 
+- 🇨🇴 BOGOTÁ, COL
+
 - 📫 How to reach me smorenope@unal.edu.co
 
 <!---
